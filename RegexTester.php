@@ -166,6 +166,7 @@
 							echo "<ul>";
 							echo $list_two;
 							echo "</ul></div>";
+							
 						}
 					} else {
 						echo "<p>Sorry there were no matches</p>";
